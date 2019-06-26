@@ -1,8 +1,5 @@
----
-aliases: http2, https
-created_by: Tim Berners-Lee
-display_name: HTTP
-released: '1989'
+---   Coders 
+
 short_description: HTTP (Hypertext Transfer Protocol) is the standard for communication
   across the web.
 topic: http
